@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 3. Hojiakbar
+=======
+1.Asatillo
+2. Sherbek
+>>>>>>> a960a8bc07be14f6547961731a93e261f636349f
